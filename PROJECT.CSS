@@ -1,0 +1,28 @@
+
+
+.navbar li{
+    display: inline;
+    margin: 10px;
+    border: 1px solid black;
+}
+.navbar a {
+    background-color: blue;
+    color: red;
+}
+.navbar a:hover{
+    background-color: aqua;
+}
+.hero{
+    text-align: center;
+    font-style: italic;
+    font-weight: 100px;
+    text-decoration: underline;
+    color: red;
+}
+.food{
+    display: flex;
+    justify-content: center;
+    flex-wrap: 70px;
+    width: 100px;
+    padding: 20px;
+}
